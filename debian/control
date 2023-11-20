@@ -1,0 +1,12 @@
+Source: ros-humble-raspimouse-sim
+Section: misc
+Priority: optional
+Maintainer: RT Corporation <shop@rt-net.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-raspimouse-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-raspimouse-fake, ros-humble-raspimouse-gazebo, ros-humble-ros-workspace
+Description: ROS 2 package suite for Raspberry Pi Mouse Simulator
