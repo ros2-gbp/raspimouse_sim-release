@@ -1,0 +1,38 @@
+ros-jazzy-raspimouse-sim (3.0.1-1noble) noble; urgency=high
+
+  * Changed launch command options (#83 <https://github.com/rt-net/raspimouse_sim/issues/83>)
+  * Contributors: Kazushi Kurasawa, YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Thu, 28 Nov 2024 15:00:00 -0000
+
+ros-jazzy-raspimouse-sim (3.0.0-1noble) noble; urgency=high
+
+  * Support ROS 2 Jazzy (#80 <https://github.com/rt-net/raspimouse_sim/issues/80>)
+  * Contributors: Kazushi Kurasawa, YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Sun, 24 Nov 2024 15:00:00 -0000
+
+ros-jazzy-raspimouse-sim (2.1.0-1noble) noble; urgency=high
+
+
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 04 Mar 2024 15:00:00 -0000
+
+ros-jazzy-raspimouse-sim (2.0.0-1noble) noble; urgency=high
+
+  * ROS 2 Humble環境のraspimouse_with_emptyworld.launch.pyを実装 (#66 <https://github.com/rt-net/raspimouse_sim/issues/66>)
+  * Contributors: YusukeKato
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 06 Nov 2023 15:00:00 -0000
+
+ros-jazzy-raspimouse-sim (0.1.1-1noble) noble; urgency=high
+
+  * Use DiffDriveController defined in xacro to simplify raspimouse_gazebo (#53 <https://github.com/rt-net/raspimouse_sim/issues/53>)
+  * Migrate package.xml to Format 2 (#41 <https://github.com/rt-net/raspimouse_sim/issues/41>)
+  * Update to be independent of raspimouse_ros #7 <https://github.com/rt-net/raspimouse_sim/issues/7>
+  * Merge pull request #15 <https://github.com/rt-net/raspimouse_sim/issues/15> from Tiryoh/spike
+  * Contributors: Daisuke Sato, Tiryoh
+
+ -- RT Corporation <shop@rt-net.jp>  Mon, 21 Aug 2023 15:00:00 -0000
+
+
